@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	sqlmock "github.com/DATA-DOG/go-sqlmock"
-	"github.com/jamf/go-mysqldump"
+	"github.com/retechno/go-mysqldump"
 	"github.com/stretchr/testify/assert"
 )
 
