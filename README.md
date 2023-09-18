@@ -63,4 +63,4 @@ func main() {
 ```
 
 [![GoDoc](https://godoc.org/github.com/retechno/go-mysqldump?status.svg)](https://godoc.org/github.com/retechno/go-mysqldump)
-[![Build Status](https://travis-ci.org/jamf/go-mysqldump.svg?branch=master)](https://travis-ci.org/jamf/go-mysqldump)
+[![Build Status](https://travis-ci.org/retechno/go-mysqldump.svg?branch=master)](https://travis-ci.org/retechno/go-mysqldump)
